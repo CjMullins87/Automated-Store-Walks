@@ -28,8 +28,7 @@ As such, in this project I aim to take simple sales and inventory data from BI t
 5. [Conclusion](Conclusion.ipynb)
 
 ### Additional Materials
-1.
-2.
+1. [Presentation](Presentation.pdf)
 
 # Results
 
